@@ -1,0 +1,16 @@
+Core Streamlit application and UI libraries
+
+streamlit
+pandas
+numpy
+plotly
+
+Machine Learning and Model Persistence
+
+scikit-learn
+joblib
+
+Visualization libraries (used in the Colab file/Analysis)
+
+matplotlib
+seaborn
